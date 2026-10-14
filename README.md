@@ -14,6 +14,8 @@
 | [RAGQuery](https://github.com/lrzcalmon/RAGQuery) | Responde perguntas sobre bancos Oracle a partir das DDLs, 100% offline | Python, Flask, ChromaDB, Phi-3-mini |
 | [Notícia & Informação](https://noticiaeinformacao.com.br) | Boletim diário de notícias com curadoria por IA | Claude, PostgreSQL |
 | [ricardocalmon.com.br](https://ricardocalmon.com.br) | Site que se atualiza sozinho: n8n coleta, Claude resume, publicação automática | n8n, Claude Haiku, SQLite |
+| [Loteria N](https://loteria-n.com.br) | Gerador de jogos da Mega-Sena e Lotofácil com estatísticas de frequência e atraso, sobre resultados coletados da API da Caixa | Python, Flask, pandas, HTML/JS |
+| [BlockOnChain na Web3](https://blockchain-na-web3.com.br) | Portal de cripto com cotações, dados on-chain e notícias puxados em tempo real de APIs públicas | React, Vite, Tailwind, Recharts |
 | [Rancher Log Viewer](https://github.com/lrzcalmon/rancher-log-viewer) | Navega clusters e pods e mostra logs em tempo real | Go, Bubble Tea, Rancher API |
 
 ## Stack
