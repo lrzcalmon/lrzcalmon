@@ -10,7 +10,7 @@
 
 | Projeto | O que faz | Stack |
 | --- | --- | --- |
-| [Fine-tuning Llama 3.1-8B](https://github.com/lrzcalmon/Repo_Git_Api) | Ajuste fino com LoRA 4-bit numa GPU T4 gratuita | Python, Unsloth, PEFT, TRL |
+| [Fine-tuning Llama 3.1-8B](https://github.com/lrzcalmon/llama31-finetuning-lora) | Ajuste fino com LoRA 4-bit numa GPU T4 gratuita | Python, Unsloth, PEFT, TRL |
 | RAGQuery | Responde perguntas sobre bancos Oracle a partir das DDLs, 100% offline | Python, Flask, ChromaDB, Phi-3-mini |
 | [Notícia & Informação](https://noticiaeinformacao.com.br) | Boletim diário de notícias com curadoria por IA | Claude, PostgreSQL |
 | [ricardocalmon.com.br](https://ricardocalmon.com.br) | Site que se atualiza sozinho: n8n coleta, Claude resume, publicação automática | n8n, Claude Haiku, SQLite |
