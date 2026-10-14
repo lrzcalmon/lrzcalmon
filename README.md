@@ -14,7 +14,7 @@
 | [RAGQuery](https://github.com/lrzcalmon/RAGQuery) | Responde perguntas sobre bancos Oracle a partir das DDLs, 100% offline | Python, Flask, ChromaDB, Phi-3-mini |
 | [Notícia & Informação](https://noticiaeinformacao.com.br) | Boletim diário de notícias com curadoria por IA | Claude, PostgreSQL |
 | [ricardocalmon.com.br](https://ricardocalmon.com.br) | Site que se atualiza sozinho: n8n coleta, Claude resume, publicação automática | n8n, Claude Haiku, SQLite |
-| Rancher Log Viewer | Navega clusters e pods e mostra logs em tempo real | Go, Bubble Tea, Rancher API |
+| [Rancher Log Viewer](https://github.com/lrzcalmon/rancher-log-viewer) | Navega clusters e pods e mostra logs em tempo real | Go, Bubble Tea, Rancher API |
 
 ## Stack
 
